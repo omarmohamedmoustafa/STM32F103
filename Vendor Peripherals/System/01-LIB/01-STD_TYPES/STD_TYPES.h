@@ -1,7 +1,7 @@
 /**********************************/
-/* Author          : Omar 		  */
-/* Date 		   : 26 JUN 2022  */
-/* Version 	 	   : 01			  */
+/* Author          : Omar 		    */
+/* Date 		   : 26 JUN 2022      */
+/* Version 	 	   : 01			        */
 /**********************************/
 
 #ifndef STD_TYPES_H
